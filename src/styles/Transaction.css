@@ -1,0 +1,41 @@
+.transaction {
+  padding: 20px;
+}
+
+.scanner {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto 20px;
+}
+
+.scanner video {
+  width: 100%;
+  height: auto;
+}
+
+.manual-input {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.manual-input input {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.transaction-buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.transaction-buttons button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

@@ -1,0 +1,47 @@
+.adjustment {
+  padding: 20px;
+}
+
+.filters {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.filters select {
+  padding: 5px;
+}
+
+.adjustment-table table, .recommendations table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.adjustment-table th, .adjustment-table td,
+.recommendations th, .recommendations td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.adjustment-table th, .recommendations th {
+  background-color: #f2f2f2;
+}
+
+.recommendations {
+  margin-top: 30px;
+}
+
+.outbound-recommendations, .inbound-recommendations {
+  margin-bottom: 20px;
+}
+
+.export-button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

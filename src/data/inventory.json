@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "A",
+      "quantity": 1000,
+      "quality": "Fresh",
+      "inDate": "31/12/2023",
+      "expiredDate": "1/1/2024",
+      "status": "Inbound"
+    },
+    {
+      "name": "B",
+      "quantity": 1000,
+      "quality": "Fresh",
+      "inDate": "31/12/2023",
+      "expiredDate": "1/1/2024",
+      "status": "Inbound"
+    },
+    {
+      "name": "C",
+      "quantity": 1000,
+      "quality": "Fresh",
+      "inDate": "31/12/2023",
+      "expiredDate": "1/1/2024",
+      "status": "Outbound"
+    },
+    {
+      "name": "D",
+      "quantity": 1000,
+      "quality": "Fresh",
+      "inDate": "31/12/2023",
+      "expiredDate": "1/1/2024",
+      "status": "Inbound"
+    },
+    {
+      "name": "E",
+      "quantity": 1000,
+      "quality": "Fresh",
+      "inDate": "31/12/2023",
+      "expiredDate": "1/1/2024",
+      "status": "Outbound"
+    }
+  ]
+}
